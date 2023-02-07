@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Besnik 👋
 
-<!--
-**BesnikShala/BesnikShala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Junior Developer, 
+## I completed a 12 month fullstack developer course with CodeInstitute where I learned how to create static sites. Sites with backend functionality and databases. I built an E-commerce site with Python-Django. I have one realworld project which I created since. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on devloping my skills and knwoledge of coding.
+- 🌱 I’m currently learning React and Typescript.
+- 👯 I’m looking to collaborate on an E-commerce site with React frontend.
+- 💬 Ask me about Python and Django 😄
+- 📫 How to reach me: [LindedIn](https://www.linkedin.com/in/besnik-shala-a5045910a/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to compete in Spartan Races! [Spartan Races](https://race.spartan.com/en/pages/story)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
